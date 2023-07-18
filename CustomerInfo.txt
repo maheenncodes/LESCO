@@ -1,0 +1,4 @@
+0000,19900912,Haris Baig,House No 665 Lane 1 Model Town Lahore Punjab,03304455678,domestic,1Phase,20000806,23,0
+0001,19800324,Sara Rahat,House No 23 Lane 42 Garden Town Lahore Punjab,03012323564,domestic,3Phase,19831204,45,20
+0002,20100612,Jibran Toor,House No 52 Lane 23 Faisal Town Lahore Punjab,0322456123,commercial,1Phase,20210927,234,0
+0003,20091123,Hassan Shahid,House No 45 Lane 43 Johar Town Lahore Punjab,0333567894,domestic,3Phase,20090227,29,122.2
